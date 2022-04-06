@@ -1,5 +1,5 @@
 # dcc-free-domain
-A unique domain name for you
+A unique domain name for you.
 
 ## What is dcc-free-domain?
 DCC Free Domains can provide you with domain names such as `*.mtr.pub`,`*.monika.love`,`*.ddlc.love`,`*.ddlc.top`. You can create DNS records for A, CNAME, TXT, SRV, etc.
