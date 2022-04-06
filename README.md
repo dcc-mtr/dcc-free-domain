@@ -13,3 +13,4 @@ DCC Free Domains can provide you with domain names such as `*.mtr.pub`,`*.monika
 
 Inspired by [js.org](github.com/js-org/js.org).
 To donate to DCC, please visit [this](http://donate.monika.love).
+Tip: records are manually added, the response speed may be slightly slow, please forgive
