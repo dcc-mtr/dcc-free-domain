@@ -9,3 +9,7 @@ DCC Free Domains can provide you with domain names such as `*.mtr.pub`,`*.monika
 1. Fork this repo.
 2. Edit the file corresponding to the record you want to add (A, CNAME, TXT, SRV, etc.)
 3. Send Pull Request.
+
+
+Inspired by [js.org](github.com/js-org/js.org).
+To donate to DCC, please visit [this](http://donate.monika.love).
